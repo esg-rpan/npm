@@ -1,0 +1,9 @@
+{
+    "name": "npm",
+    "version": "1.0.0",
+    "displayName": "npm",
+    "description": "N/A",
+    "unity": "2018.4",
+    "author": "East Side Games Inc.",
+    "license": "UNLICENSED"
+}
